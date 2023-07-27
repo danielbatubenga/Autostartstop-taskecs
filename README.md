@@ -8,4 +8,4 @@ as tasks do ecs fargate.
 1. Ter uma conta aws
 2. Criar  função lambda com python 3.8.
 3. Criar um evento no amazon eventbridge, com disparos programatico via cron.
-4. definir target no eventbridge usando os modelos em json [aqui](https://bitbucket.org/sideatech/aws_eks_terraform/src/main/main.tf)
+4. definir target no eventbridge usando os modelos em json [aqui](https://github.com/danielbatubenga/Autostartstop-taskecs/tree/main/comandos)
